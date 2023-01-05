@@ -1,1 +1,1 @@
-# FoodGarage
+# FoodGarage : Online food ordering destination
